@@ -132,16 +132,6 @@ fun_fact: >
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arpit-K8&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&rank=SSS,SS,S,AAA,AA,A,B" width="100%"/>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
