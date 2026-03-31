@@ -18,7 +18,6 @@
 </div>
 
 ---
-<div align="center>
 <table>
 <tr>
 <td width="55%">
@@ -53,7 +52,6 @@ fun_fact: >
 </td>
 </tr>
 </table>
-</div>
 ---
 
 ## 🌐 Connect With Me
