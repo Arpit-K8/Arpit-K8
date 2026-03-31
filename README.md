@@ -18,10 +18,10 @@
 </div>
 
 ---
-
+<div align="center>
 <table>
 <tr>
-<td width="55%" align="center">
+<td width="55%">
 
 ## 👨‍💻 About Me
 
@@ -53,7 +53,7 @@ fun_fact: >
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 ## 🌐 Connect With Me
