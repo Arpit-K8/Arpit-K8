@@ -63,7 +63,7 @@ fun_fact: >
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arpit%20Kumar-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpit-kumar98)
 [![GitHub](https://img.shields.io/badge/GitHub-Arpit--K8-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpit-K8)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-7B68EE?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpit-k8.github.io/Portfolio/Index.html)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitkumar09ps@gmail.com)
 
 </div>
 
