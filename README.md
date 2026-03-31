@@ -1,3 +1,15 @@
+# 💻 Arpit Kumar
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=435&lines=MERN+Stack+Developer;☁️+DevOps+Enthusiast;🇮🇳+India)](https://git.io/typing-svg)
+
+---
+
+### 📊 Profile Stats
+![Profile Views](https://komarev.com/ghpvc/?username=arpit-kumar&color=blue&style=flat)
+![Followers](https://img.shields.io/github/followers/arpit-kumar?style=social)
+![Stars](https://img.shields.io/github/stars/arpit-kumar?style=social)
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arpit-kumar98) 
