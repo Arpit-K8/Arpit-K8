@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arpit%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=55&descSize=18&descColor=a0a0ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arpit%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=55&descSize=18&descColor=a0a0ff" width="100%" alt="Banner"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Building+scalable+web+apps;⚙️+Automating+everything+with+DevOps;💡+Turning+ideas+into+products" alt="Typing SVG" />
+<!-- Typing Animation (safe config) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=7B68EE&center=true&vCenter=true&width=900&lines=Building+scalable+web+apps;Automating+everything+with+DevOps;Turning+ideas+into+products" alt="Typing SVG" />
 
 <br/>
 
 <!-- Profile Badges -->
-<img src="https://komarev.com/ghpvc/?username=Arpit-K8&label=Profile+Views&color=7B68EE&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Arpit-K8&label=Profile%20Views&color=7B68EE&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Arpit-K8?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29&logoColor=white" />
+<img src="https://img.shields.io/github/followers/Arpit-K8?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29&logoColor=white" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/Arpit-K8?label=Stars&style=for-the-badge&color=302b63&labelColor=0f0c29" />
+<img src="https://img.shields.io/github/stars/Arpit-K8?label=Stars&style=for-the-badge&color=302b63&labelColor=0f0c29" alt="Stars"/>
 
 </div>
 
@@ -118,15 +118,15 @@ fun_fact: >
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arpit-K8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arpit-K8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=86400" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arpit-K8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=350" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arpit-K8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=350&cache_seconds=86400" height="180" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Arpit-K8&theme=tokyonight&hide_border=true&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE" width="500"/>
+<img src="https://streak-stats.demolab.com?user=Arpit-K8&theme=tokyonight&hide_border=true" width="500" alt="Streak Stats"/>
 
 </div>
 
@@ -154,7 +154,7 @@ fun_fact: >
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
 
 **Thanks for visiting! Drop a ⭐ if you find my work interesting.**
 
