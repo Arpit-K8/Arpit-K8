@@ -21,7 +21,7 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="55%" align="center">
 
 ## 👨‍💻 About Me
 
